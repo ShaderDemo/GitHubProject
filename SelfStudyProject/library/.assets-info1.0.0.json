@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/startScene.meta": {
+      "time": 1707880065182.3767
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/startScene": {
+      "time": 1707880065179.4058,
+      "uuid": "14c9f43a-3a27-40e8-9330-c482a09a9728"
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene.meta": {
+      "time": 1707880095019.9019
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene": {
+      "time": 1707880210655.365,
+      "uuid": "ee91da72-3f60-4652-aeef-9f8213876ee1"
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene/mainScene.scene.meta": {
+      "time": 1707880123685.887
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene/mainScene.scene": {
+      "time": 1707880178515.2234,
+      "uuid": "96d83879-0b1b-488b-8225-1476a895af0a"
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene/NewComponent.ts.meta": {
+      "time": 1707880210656.6453
+    },
+    "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene/NewComponent.ts": {
+      "time": 1707880210650.259,
+      "uuid": "e8b96d94-55dd-4d45-8ffd-435ac1d76a9b"
+    }
+  },
+  "missing": {
+    "96d83879-0b1b-488b-8225-1476a895af0a": {
+      "path": "/Users/zhangxiaoqiang/CocosProject/GitHubProject/SelfStudyProject/assets/mainScene/scene.scene",
+      "time": 1707880123683.9067,
+      "removeTime": 1707880178513
+    }
+  }
+}

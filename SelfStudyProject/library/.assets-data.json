@@ -1,0 +1,29 @@
+{
+  "14c9f43a-3a27-40e8-9330-c482a09a9728": {
+    "url": "db://assets/startScene",
+    "value": {},
+    "versionCode": 0
+  },
+  "ee91da72-3f60-4652-aeef-9f8213876ee1": {
+    "url": "db://assets/mainScene",
+    "value": {},
+    "versionCode": 0
+  },
+  "96d83879-0b1b-488b-8225-1476a895af0a": {
+    "url": "db://assets/mainScene/mainScene.scene",
+    "value": {
+      "depends": [
+        "96d83879-0b1b-488b-8225-1476a895af0a",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "e8b96d94-55dd-4d45-8ffd-435ac1d76a9b": {
+    "url": "db://assets/mainScene/NewComponent.ts",
+    "value": {},
+    "versionCode": 0
+  }
+}
